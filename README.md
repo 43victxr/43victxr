@@ -1,4 +1,4 @@
-
+**43victxr INFO & PROYECTS**
 - 🎃 | I'm currently available to place any order.
 - 👨‍💻 | Specialized in Minecraft Servers.
 - ⭐ | Plugin Dev & Minecraft Servers.
@@ -7,3 +7,7 @@
 
 **If you need anything, contact me at:**
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://i.imgur.com/rC6r1Bt.png)
+
+**Project history:**
+- ⚔ ExoCraft - A Minecraft Network based on Roleplay and Survival (play.exocraft.net - Owner)
+- ⚔ Exo - A Minecraft Network based on Roleplay and Survival (play.exocraft.net - Owner)
