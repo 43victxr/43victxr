@@ -10,7 +10,7 @@
 
 **Project history:**
 - ⚔ SmallLife - A Minecraft server based on roleplay with de GTA V map (Server closed - Owner)
-- ⚔ ExoCraft - A Minecraft Network based on Roleplay and Survival (play.exocraft.net - Owner)
+- ⚔ ExoCraft - A Minecraft Network based on Roleplay, Survival, Parkour and Zombies (play.exocraft.net - Owner)
 - ⚔ Exodia - A minecraft server based on survival RPG (Server closed - Owner)
 - ⚔ Prolatin - I developed an advanced configuration of one of the most important features of its roleplay. (proyectolatino.online - No rank, only specific orders)
 - ⚔ Custom Minecraft Launcher - For an event.
