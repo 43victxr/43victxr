@@ -13,5 +13,6 @@
 - ⚔ ExoCraft - A Minecraft Network based on Roleplay and Survival (play.exocraft.net - Owner)
 - ⚔ Exodia - A minecraft server based on survival RPG (Server closed - Owner)
 - ⚔ Prolatin - I developed an advanced configuration of one of the most important features of its roleplay. (proyectolatino.online - No rank, only specific orders)
-- ⚔ Custom Minecraft Launcher - Cooming soon...
+- ⚔ Custom Minecraft Launcher - For an event.
+- ⚔ Builder jobs for a private server.
 - ⚔ Specific tasks of development of simple plugins and configurations to different people.
