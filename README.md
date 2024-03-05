@@ -1,18 +1,24 @@
-**43victxr INFO & PROYECTS**
-- 🎃 | I'm currently available to place any order.
-- 👨‍💻 | Specialized in Minecraft Servers.
-- ⭐ | Plugin Dev & Minecraft Servers.
-- 🎓 | Founder of Exo Company.
-- 💥 | Minecraft & Discord high staff experience.
+**43victxr INFO & PROJECTS**
+- 🎃 | I'm currently available to take on any orders.
+- 👨‍💻 | Experience in Minecraft and FiveM server development.
+- ⭐ | Active LUA script developer.
+- 🎓 | Experience in high-ranking positions on significant servers.
 
 **If you need anything, contact me at:**
-* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://i.imgur.com/rC6r1Bt.png)
-
+* [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='40'>](https://discord.com/app) You can find me as "43victxr".
+* [<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='40'>](https://es.fiverr.com/i43victxr)
+  
+  
 **Project history:**
-- ⚔ SmallLife - A Minecraft server based on roleplay with de GTA V map (Server closed - Owner)
-- ⚔ ExoCraft - A Minecraft Network based on Roleplay, Survival, Parkour and Zombies (play.exocraft.net - Owner)
-- ⚔ Exodia - A minecraft server based on survival RPG (Server closed - Owner)
-- ⚔ Prolatin - I developed an advanced configuration of one of the most important features of its roleplay. (proyectolatino.online - No rank, only specific orders)
-- ⚔ Custom Minecraft Launcher - For an event.
-- ⚔ Builder jobs for a private server.
-- ⚔ Specific tasks of development of simple plugins and configurations to different people.
+- 🔐 ExoCraft - A Minecraft Network based on Roleplay, Survival, Parkour, and Zombies (play.exocraft.net - Closed)
+- 🔐 Prolatin - I developed an advanced configuration of one of its roleplay's most important features. (proyectolatino.online - No rank, only specific orders)
+- 🔐 Custom Minecraft Launcher - For an event.
+- 🔒 VaporLife - FiveM Serious Roleplay Server.
+- 🔒 CalleOcho - FiveM Roleplay Server (Developer)
+
+**Scripts & Plugins**
+- 🍁 43Drugs - Simple drug system for Minecraft (Java)
+- 📡 DiscordLogger - Simple Discord logger to connect Discord Webhooks and Minecraft (Java)
+- 🚘 43CarRobbery - Advanced FiveM Car Robbery (LUA, ESX, ox_target)
+- 💨 43WeedBong - Advanced Weed Bong smoking script for FiveM (LUA, ESX, ox_target)
+- 🏡 43HouseRobbery - FiveM ESX house robbery scripts with a Shell system. (Developing...)
