@@ -5,8 +5,8 @@
 - 🎓 | Experience in high-ranking positions on significant servers.
 
 **If you need anything, contact me at:**
-- <p align="center">[<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='50'>](https://discord.com/app)<br>You can find me as "43victxr".</p>
-- <p align="center">[<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='50'>](https://es.fiverr.com/i43victxr)</p>
+* [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='40'>](https://discord.com/app) You can find me as "43victxr".
+* [<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='40'>](https://es.fiverr.com/i43victxr)
   
 **Project history:**
 - 🔐 ExoCraft - A Minecraft Network based on Roleplay, Survival, Parkour, and Zombies (play.exocraft.net - Closed)
