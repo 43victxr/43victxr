@@ -5,8 +5,8 @@
 - 🎓 | Experience in high-ranking positions on significant servers.
 
 **If you need anything, contact me at:**
-* [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='40'>](https://discord.com/app) You can find me as "43victxr".
-* [<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='40'>](https://es.fiverr.com/i43victxr)
+* [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='55'>](https://discord.com/app) You can find me as "43victxr".
+* [<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='5'>](https://es.fiverr.com/i43victxr)
   
   
 **Project history:**
