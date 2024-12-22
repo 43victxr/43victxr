@@ -17,6 +17,7 @@
 - 🔒 Marsella RP - Fivem Roleplay Server (Custom Order and Fixes)
 - 🔒 La Playa RP - Fivem Roleplay Server (Custom Order and Fixes)
 - 🔒 GTA Liberty - Fivem Roleplay Server (Custom Order and Fixes)
+- 🔒 SpainRol - Fivem Roleplay Server (Custom Order and Fixes)
 
 **Scripts & Plugins**
 - 🍁 43Drugs - Simple drug system for Minecraft (Java)
