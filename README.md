@@ -27,6 +27,8 @@
 - 💻 FoxSpain RP - Fivem Roleplay Server (Developer)
 - 🌐 Petanidor RP - Fivem Roleplay Server (Custom Order and Fixes)
 - 🌐 Los Santos Life Community - Fivem Roleplay Server (Custom Order and Fixes)
+- 🚀 Astrol Nodes - Active hosting for all servers styles.
+
 
 **Scripts, Plugins and Others**
 - 🍁 43Drugs - Simple drug system for Minecraft (Java)
