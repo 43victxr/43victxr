@@ -45,5 +45,5 @@
 - 📂 43SQLSyncDiscord - System to connect MYSQL databases (preferably MariaDB architecture) with a Discord bot, allowing database queries to be made through commands.
 
 # Astrol Nodes Founder
-**Astrol Nodes. Hosting adaptable, asequible y potente.**
-<br> [<img src='https://i.imgur.com/o6aLFlO.png' alt='fiverr' height='100px'>](https://i.imgur.com/o6aLFlO.png)
+**Astrol Nodes. Hosting adaptable, asequible y potente. Soporte 24/7 y eficaz**
+<br> [<img src='https://i.imgur.com/o6aLFlO.png' alt='fiverr' height='100px'>](https://astrolnodes.net)
