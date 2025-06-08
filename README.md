@@ -7,7 +7,7 @@
 - 🧰 | Experience in server setup and configuration
 
 ## If you need anything, contact me at:
-<br> [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='50'>](https://discord.com/app) You can find me as "43victxr".
+<br> [<img src='https://i.imgur.com/PJxvGo3.png' alt='discord' height='50'>](https://discord.gg/wJJad4PMNE)
 <br> [<img src='https://i.imgur.com/cN5BEIn.png' alt='fiverr' height='50'>](https://es.fiverr.com/i43victxr)
 
 # Project history:
@@ -29,12 +29,19 @@
 * 🌐/💻 ZombieArena PVP - Fivem Zombies PVP Server (Developer)
 * 🌐/💻 FoxSpain RP - Fivem Roleplay Server (Developer)
 * 🌐 Petanidor RP - Fivem Roleplay Server (Custom Order and Fixes)
-* 🌐 Los Santos Life Community - Fivem Roleplay Server (Developer)
+* 🔒 Los Santos Life Community - Fivem Roleplay Server (Developer)
+* 🌐/💻 Liberty City Life - Fivem Roleplay Server (Developer)
+* 🌐/💻 Antartida RP - Fivem Roleplay Server (Developer - Minor Fixes & Orders)
+* 💻 Zombie Arena v2 - Fivem Roleplay Server (Developer)
+* 💻 Legion Terry RP - Fivem Roleplay Server (Developer)
+* 💻 Inmortal RP - Fivem Roleplay Server (Developer)
+
+
 * 🚀 Astrol Nodes - Active hosting for all servers styles.
 
 
 # Scripts, Plugins and Others
-- [Check the my store here. (Astrol Scripts)](https://scripts.astrolnodes.net/category/free)
+- [Check the my store here. (Astrol Scripts)](https://discord.gg/wJJad4PMNE)
 
 - 🍁 43Drugs - Simple drug system for Minecraft (Java)
 - 📡 43DiscordLogger - Simple Discord logger to connect Discord Webhooks and Minecraft (Java)
