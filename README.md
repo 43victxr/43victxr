@@ -33,8 +33,10 @@
 * 🌐/💻 Liberty City Life - Fivem Roleplay Server (Developer)
 * 🌐/💻 Antartida RP - Fivem Roleplay Server (Developer - Minor Fixes & Orders)
 * 💻 Zombie Arena v2 - Fivem Roleplay Server (Developer)
-* 💻 Legion Terry RP - Fivem Roleplay Server (Developer)
+* 🌐/💻 Legion Terry RP - Fivem Roleplay Server (Developer)
 * 💻 Inmortal RP - Fivem Roleplay Server (Developer)
+* 🌐/💻 La Legion Zombi RP - Fivem Roleplay Server (Developer)
+* 💻 Naciones RP - Fivem Roleplay Server (Developer)
 
 
 * 🚀 Astrol Nodes - Active hosting for all servers styles.
