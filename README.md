@@ -31,19 +31,25 @@
 * 🌐 Petanidor RP - Fivem Roleplay Server (Custom Order and Fixes)
 * 🔒 Los Santos Life Community - Fivem Roleplay Server (Developer)
 * 🌐 Liberty City Life - Fivem Roleplay Server (Developer)
-* 🌐/💻 Antartida RP - Fivem Roleplay Server (Developer - Minor Fixes & Orders)
+* 🔒 Antartida RP - Fivem Roleplay Server (Developer - Minor Fixes & Orders)
 * 💻 Zombie Arena v2 - Fivem Roleplay Server (Developer)
 * 🌐/💻 Legion Terry RP - Fivem Roleplay Server (Developer)
 * 💻 Inmortal RP - Fivem Roleplay Server (Developer)
 * 🌐/💻 La Legion Zombi RP - Fivem Roleplay Server (Developer)
 * 💻 Naciones RP - Fivem Roleplay Server (Developer)
-* 💻 Hispania RP - Fivem Roleplay Server (Developer)
-* 💻 Strangers RP - Fivem Roleplay Server (Developer)
+* 🔒 Hispania RP - Fivem Roleplay Server (Developer)
+* 🌐 Strangers RP - Fivem Roleplay Server (Developer)
 * 💻 BlancoVice - Fivem Roleplay Server (Developer)
-
+* 💻 Neon City RP - Fivem Roleplay Server (Developer)
+* 💻 CaribeLife RP - Fivem Roleplay Server (Developer)
+* 💻 Punta Cana RP - Fivem Roleplay Server (Developer)
+* 💻 Dominio RP - Fivem Roleplay Server (Developer)
 
 * 🚀 Astrol Nodes - Active hosting for all servers styles.
 
+# Astrol Nodes Founder
+**Astrol Nodes. Hosting adaptable, asequible y potente. Soporte 24/7 y eficaz**
+<br> [<img src='https://i.imgur.com/uQ9daey.png' alt='astrol-logo' height='100px'>](https://astrolnodes.net)
 
 # Scripts, Plugins and Others
 - [Check the my store here. (Astrol Scripts)](https://discord.gg/wJJad4PMNE)
@@ -55,7 +61,3 @@
 - 🔫 43GangCreator - Fivem ESX Gang Creator Script (Developing...)
 - 🧱 [AstrolMechanic Missions](https://scripts.astrolnodes.net/package/6744616) - FiveM Mechanic missions Script (LUA, ESX, ox_target, ox_lib)
 - 📂 43SQLSyncDiscord - System to connect MYSQL databases (preferably MariaDB architecture) with a Discord bot, allowing database queries to be made through commands.
-
-# Astrol Nodes Founder
-**Astrol Nodes. Hosting adaptable, asequible y potente. Soporte 24/7 y eficaz**
-<br> [<img src='https://i.imgur.com/o6aLFlO.png' alt='fiverr' height='100px'>](https://astrolnodes.net)
