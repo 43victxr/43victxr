@@ -8,8 +8,8 @@
 
 ## If you need anything, contact me at:
 ## 📬 Contact & Professional Profiles
-[![Discord](https://img.shields.io/badge/Discord-43victxr-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJJad4PMNE) <br>
-[![Fiverr](https://img.shields.io/badge/Fiverr-i43victxr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/i43victxr) <br>
+[![Discord](https://img.shields.io/badge/Discord-43victxr-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wJJad4PMNE) 
+[![Fiverr](https://img.shields.io/badge/Fiverr-i43victxr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/i43victxr) 
 [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/43victxr) <br>
 
 # Project history:
